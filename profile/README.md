@@ -15,5 +15,5 @@ If your project has been forked here, congratulations! It has been recognized fo
 
 ## ✉️ Contact
 - **Institution:** Université du Québec à Chicoutimi (UQAC)
-- **Email:** [Your Public Email Here]
+- **Email:** emanai@uqac.ca
 - **Location:** Saguenay, QC, Canada
